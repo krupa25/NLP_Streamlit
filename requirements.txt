@@ -1,0 +1,11 @@
+
+gensim==3.8.1
+
+nltk==3.4.5
+
+spacy==2.2.2
+
+streamlit==0.49.0
+sumy==0.8.1
+
+textblob==0.15.3
